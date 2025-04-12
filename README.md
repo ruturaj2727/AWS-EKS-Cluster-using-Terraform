@@ -1,7 +1,7 @@
 
-# AWS EKS Cluster using Terraform
+# Setup Kubernetes Cluster with AWS EKS and Terraform
 
-This project demonstrates how to **provision an Amazon Elastic Kubernetes Service (EKS) cluster** using **Terraform**, one of the most popular Infrastructure as Code (IaC) tools. The EKS cluster can be used to deploy, manage, and scale containerized applications using Kubernetes.
+This project demonstrates how to provision an Creation, Setup & Automation of kubernetes cluster with Amazon Elastic Kubernetes Service (EKS) and Terraform, one of the most popular Infrastructure as Code (IaC) tools. The EKS cluster can be used to deploy, manage, and scale containerized applications using Kubernetes.
 
 ---
 
@@ -34,9 +34,9 @@ This project demonstrates how to **provision an Amazon Elastic Kubernetes Servic
 
 ## 📸 Project Architecture
 
-![EKS Architecture](https://github.com/ruturaj2727/AWS-EKS-Cluster-using-Terraform/assets/eks-arch.png)
+![EKS Architecture](https://github.com/ruturaj2727/AWS-EKS-Cluster-using-Terraform/blob/main/EKS%20architecture.png)
 
-🌀 [Click to view the animated architecture GIF](https://github.com/ruturaj2727/AWS-EKS-Cluster-using-Terraform/assets/eks-animated.gif)
+🌀 [Click to view the animated architecture GIF([Project-design.gif](https://github.com/ruturaj2727/AWS-EKS-Cluster-using-Terraform/blob/main/Project-design.gif))
 
 ---
 
